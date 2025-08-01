@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SOPPAT Projesi</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background-color: #0d47a1; color: white; padding: 1rem; text-align: center; }
+    nav { background-color: #1565c0; padding: 0.5rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    main { padding: 2rem; }
+    section { margin-bottom: 2rem; }
+    footer { background-color: #0d47a1; color: white; text-align: center; padding: 1rem; }
+    .logo { max-width: 150px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SOPPAT – NEET Gençlere Yönelik Paternalist Yaklaşımı Önlemeye Yönelik Çözümler</h1>
+    <p>2024-1-TR01-KA210-YOU-000257558 | Erasmus+ KA210-YOU Projesi</p>
+  </header>
+  <nav>
+    <a href="#hakkinda">Proje</a>
+    <a href="#ortaklar">Ortaklar</a>
+    <a href="#etkinlikler">Etkinlikler</a>
+    <a href="#yayinlar">Yayınlar</a>
+    <a href="#iletisim">İletişim</a>
+  </nav>
+  <main>
+    <section id="hakkinda">
+      <h2>Proje Hakkında</h2>
+      <p>Bu proje, NEET gençlere yönelik paternalist yaklaşımları önlemeyi, gençlerin özerklik kazanmasını ve kurumsal farkındalık geliştirmeyi amaçlamaktadır.</p>
+    </section>
+    <section id="ortaklar">
+      <h2>Proje Ortakları</h2>
+      <ul>
+        <li><strong>Türkiye</strong> – Koordinatör (kırsal NEET gençler)</li>
+        <li><strong>İrlanda</strong> – Göçmen gençlerin dijital becerileri</li>
+        <li><strong>Litvanya</strong> – Engelli bireyler için kolay okuma</li>
+        <li><strong>Bulgaristan</strong> – Kadın NEET'lere destek</li>
+      </ul>
+    </section>
+    <section id="etkinlikler">
+      <h2>Etkinlikler</h2>
+      <p>Litvanya, Kaunas'ta açılış toplantısı; fotoğrafçılık ve dijital beceri atölyeleri; yerel sanatçılarla iş birlikleri.</p>
+    </section>
+    <section id="yayinlar">
+      <h2>Yayınlar ve Çıktılar</h2>
+      <ul>
+        <li>İyi Uygulamalar Kitapçığı</li>
+        <li>Kolay Okunabilir Eğitim Materyalleri</li>
+        <li>Gençlik Atölye Raporları</li>
+      </ul>
+    </section>
+    <section id="iletisim">
+      <h2>İletişim</h2>
+      <p>Koordinatör Kurum: [Kurum Adı]<br />E-posta: info@ornek.org<br />Adres: Samsun, Türkiye</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 SOPPAT Projesi | Erasmus+ Programı kapsamında desteklenmektedir.</p>
+  </footer>
+</body>
+</html>
